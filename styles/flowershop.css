@@ -1,0 +1,29 @@
+/* nav related style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-top: 10px;
+    margin-right: 25px;
+    gap: 5px;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+.shop-name{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 50px;
+     margin-top: 25px;
+     margin-left: 50px;
+}
