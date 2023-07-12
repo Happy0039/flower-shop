@@ -69,3 +69,80 @@ font-weight: 700;
 padding: 20px 40px;
 margin: 0px 670px 10px 200px;
 }
+
+/* main related styles */
+
+.flower-heading{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+padding: 170px 760px 24px 760px;
+
+}
+.flower-para{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+padding: 0 660px 48px 660px;
+}
+.featured-flower-pic{
+gap: 10px;
+justify-content: space-around;
+background: #FFF;
+display: flex;
+align-items: center;
+
+
+}
+.first-flower{
+width: 310px;
+height: 428px;
+padding: 100px 75px 0 75px;
+width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background-color: rgba(167, 33, 98, 0.15);
+
+}
+
+.second-flower{
+width: 310px;
+height: 428px;
+padding: 100px 75px 0 75px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+width: 464px;
+height: 538px;
+}
+.third-flower{
+width: 310px;
+height: 428px;
+padding: 100px 75px 0 75px;
+width: 464px;
+height: 538px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+
+.tree{
+
+    text-align: center;
+    text-decoration-line: underline;
+    padding: 20px 380px 128px 381px;
+    display: flex;
+    gap: 550px;
+
+}
+
+.pink{
+    color: #272727;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+
+}
