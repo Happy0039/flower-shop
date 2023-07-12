@@ -58,14 +58,13 @@ font-size: 18px;
 padding: 0px 170px 30px 200px;
 }
 .banner-btn{
-    border-radius: 8px;
+border-radius: 8px;
 background: #E55473;
 border: 0;
 color: #FFF;
 font-family: Lato;
 font-size: 20px;
-
-font-weight: 700;
+font-weight: 700px;
 padding: 20px 40px;
 margin: 0px 670px 10px 200px;
 }
@@ -146,3 +145,142 @@ font-weight: 700;
 line-height: 35px;
 
 }
+
+.hot-deal-content{
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.10);
+padding: 128px 0 128px 0 ;
+display: flex;
+align-items: center;
+}
+
+.hot-deal-header{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+padding: 230px 215px 30px 420px;
+}
+.hot-deal-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+display: flex;
+padding: 0 185px 50px 395px;
+}
+
+.hot-deal-btn{
+
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    margin: 0px 420px 165px 603px;
+    }
+
+    .hot-deal-pic{
+        width: 340px;
+    }
+
+    .social-header{
+
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+padding: 130px 870px 20px 870px;
+    }
+    .social-para{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+display: flex;
+padding: 0 665px 50px 665px;
+    }
+
+.flower-pics{
+
+        gap: 20px;
+        justify-content:space-around;
+        background: #FFF;
+        display: flex;
+        align-items: center;
+    
+    }
+
+
+.nice-pics{
+    width: 350px;
+        height: 400px;
+}
+.price{
+    padding: 128px 0 ;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.price-header{
+color: #E55473;
+padding: 30px 400px 20px 400px;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.table{
+    text-align: center;
+    padding: 50px 400px 30px 400px;
+
+}
+.tcap{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 400px 10px 400px;
+}
+.thd{
+    text-align: center;
+font-size: larger;
+
+}
+
+.tbd{
+    text-align: left;
+    font-size: 20px;
+}
+.special-heading{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 700px;
+padding: 30px 150px 20px 300px;
+    
+}
+.special-para1{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+padding: 5px 140px 20px 350px ;
+
+}
+.special-ancr{
+color: #E55473;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+padding: 10px 450px 15px 500px ;
+
+}
+    
+    
+
+
+
